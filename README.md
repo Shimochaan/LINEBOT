@@ -5,7 +5,8 @@
 
 ## 🚀 成果物URL
 * **LINE公式アカウント（友だち追加QRコード/URL）**
-  * [ここにLINEの友だち追加URL、またはQRコード画像のリンクを貼る]
+  * <img width="360" height="360" alt="image" src="https://github.com/user-attachments/assets/042f2bfb-5b56-4cf8-92ab-4f14717e02f0" />
+
 
 ---
 
