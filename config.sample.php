@@ -19,5 +19,12 @@ $accessToken = 'YOUR_CHANNEL_ACCESS_TOKEN';
 // LINE Developers コンソール > チャネル基本設定 > チャネルシークレット
 $channelSecret = 'YOUR_CHANNEL_SECRET';
 
+// Claude API（Anthropic）の APIキー
+// https://console.anthropic.com/ > API Keys で発行
+$claudeApiKey = 'YOUR_CLAUDE_API_KEY';
+
 // エラーログの出力先（サーバーの絶対パス）
 $errorLogPath = '/path/to/your/php_error.log';
+
+// 会話履歴の保存先ディレクトリ（サーバーの絶対パス）
+$historyDir = '/path/to/your/history';
